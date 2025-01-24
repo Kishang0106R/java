@@ -18,3 +18,4 @@ public static void main(String[] args) {
     System.out.println("GCD of "+a+" and "+b+" is "+gcd(a,b));
     sc.close();
 }
+//calculates the Greatest Common Divisor

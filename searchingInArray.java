@@ -1,5 +1,5 @@
 import java.util.*;
-public class second {
+public class searchingInArray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("enter you array size: ");
